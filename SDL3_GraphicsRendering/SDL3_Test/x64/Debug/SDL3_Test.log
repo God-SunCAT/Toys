@@ -1,0 +1,8 @@
+﻿  entry.cpp
+C:\Users\Ayr\Desktop\SDL3_Test\entry.cpp(110,74): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Ayr\Desktop\SDL3_Test\entry.cpp(110,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Ayr\Desktop\SDL3_Test\entry.cpp(110,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Ayr\Desktop\SDL3_Test\entry.cpp(110,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  SDL3_Test.vcxproj -> C:\Users\Ayr\Desktop\SDL3_Test\x64\Debug\SDL3_Test.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
